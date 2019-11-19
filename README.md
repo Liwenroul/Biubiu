@@ -3,7 +3,7 @@
 ### 项目简介
 设计打造出一款关爱宠物生活、满足人们对交流养宠方法及乐趣的需求、提高宠物和人的亲密度的宠物APP。
 ### 项目地址
-* [Github:](https://github.com/Liwenroul/software-process-homework)
+* Github:[https://github.com/Liwenroul/software-process-homework](https://github.com/Liwenroul/software-process-homework)
 ### 项目成员
 * 李文柔（项目经理）
   * [Email:](2728608191@qq.com)
