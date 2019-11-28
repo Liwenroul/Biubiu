@@ -1,7 +1,7 @@
 # Biubiu
 ## 《吾宠》 -Html5方向
 ### 项目简介
-设计打造出一款关爱宠物生活、满足人们对交流养宠方法及乐趣的需求、提高宠物和人的亲密度的宠物APP。
+《吾宠》打造出一款关爱宠物生活、满足人们对通过相互关注和发布动态来分享养宠方法及乐趣的需求、通过宠物活动和打卡互动提高宠物和人的亲密度的宠物APP。
 ### 项目地址
 * Github:[https://github.com/Liwenroul/software-process-homework](https://github.com/Liwenroul/software-process-homework)
 ### 项目成员
